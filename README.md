@@ -5,9 +5,4 @@ CS sophomore in the US, focused on AI engineering and the systems around languag
 
 Right now I'm building small projects that use LLM APIs end to end, and learning what makes agents work outside of demos: tool use, retrieval, evaluation.
 
-**Tech**
-
-Python, FastAPI, SQL, TypeScript, React
-
-
 [sandeshbhandari.net](https://sandeshbhandari.net)
